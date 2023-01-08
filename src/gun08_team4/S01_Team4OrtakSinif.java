@@ -11,8 +11,6 @@ public class S01_Team4OrtakSinif {
 
         System.out.println("merhaba yılmak yok, yola devam. osman");
 
-        System.out.println("Aha buda conflit Osman abi :) ");
-
         System.out.println("Not: pull request==> new pull request ==> compare and ..e bakın");
 
         System.out.println("bir pazar gunu GitHubla.osman");
@@ -28,7 +26,5 @@ public class S01_Team4OrtakSinif {
         System.out.println("merhaba yeni proje hayirli olsun-Elif");
 
         System.out.println("Arkadaslar guzel bir proje olmasi dilegiyle- Galip");
-
-        System.out.println("bu conflitsiz ");
     }
 }
