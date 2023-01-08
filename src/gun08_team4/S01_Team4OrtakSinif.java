@@ -20,5 +20,7 @@ public class S01_Team4OrtakSinif {
         System.out.println("Osman hocam tekrardan hayırlı olsun ilk github projeniz:)");
 
         System.out.println("teşekkür ederim inşaallah bu projeyı problemsız gotururuz");
+
+        System.out.println("bunu mesajı göruyorsak conflıct cozulmus demektir");
     }
 }
