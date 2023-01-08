@@ -1,0 +1,8 @@
+package gun08_team4;
+
+public class S02_osmanClass {
+    public static void main(String[] args) {
+
+        System.out.println("merhaba yeni proje merhaba yeni hayat");
+    }
+}
