@@ -14,5 +14,7 @@ public class S02_osmanClass {
         System.out.println("besıncı mesajım");
 
         System.out.println("altıncı mesajım");
+
+        System.out.println("yedıncı mesajım");
     }
 }
