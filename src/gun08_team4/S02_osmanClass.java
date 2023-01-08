@@ -6,5 +6,7 @@ public class S02_osmanClass {
         System.out.println("merhaba yeni proje merhaba yeni hayat");
 
         System.out.println("ılk pulldan sonra gonderdıgım mesaj");
+
+        System.out.println("ucuncu degısıklık mesajım");
     }
 }
