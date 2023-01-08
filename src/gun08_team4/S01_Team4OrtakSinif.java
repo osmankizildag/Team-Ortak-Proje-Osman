@@ -24,5 +24,7 @@ public class S01_Team4OrtakSinif {
         System.out.println("bunu mesajı göruyorsak conflıct cozulmus demektir");
 
         System.out.println("merhaba yeni proje hayirli olsun-Elif");
+
+        System.out.println("Arkadaslar guzel bir proje olmasi dilegiyle- Galip");
     }
 }
