@@ -15,7 +15,7 @@ public class S01_Team4OrtakSinif {
 
         System.out.println("bir pazar gunu GitHubla.osman");
 
-        System.out.println("Καλησπερα σε ολους σας!!!.ΣΕΡΚΑΝ"); //Herkese iyi ogleden sonralar
+        System.out.println("Καλησπερα σε ολους σας!!!.ΣΕΡΚΑΝ");
 
         System.out.println("Osman hocam tekrardan hayırlı olsun ilk github projeniz:)");
 
