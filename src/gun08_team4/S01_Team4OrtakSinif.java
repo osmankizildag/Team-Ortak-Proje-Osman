@@ -10,5 +10,7 @@ public class S01_Team4OrtakSinif {
                 "Ayrıca kendimize ait ismimizle birer class da açalım");
 
         System.out.println("merhaba yılmak yok, yola devam. osman");
+
+        System.out.println("Not: pull request==> new pull request ==> compare and ..e bakın");
     }
 }
