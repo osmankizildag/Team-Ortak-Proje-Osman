@@ -16,5 +16,7 @@ public class S02_osmanClass {
         System.out.println("altıncı mesajım");
 
         System.out.println("yedıncı mesajım");
+
+        System.out.println("efkarımdan kendimi githuba verdim");
     }
 }
