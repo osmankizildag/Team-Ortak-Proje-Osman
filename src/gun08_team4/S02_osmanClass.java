@@ -10,5 +10,7 @@ public class S02_osmanClass {
         System.out.println("ucuncu degısıklık mesajım");
 
         System.out.println("dorduncu mesajım");
+
+        System.out.println("besıncı mesajım");
     }
 }
