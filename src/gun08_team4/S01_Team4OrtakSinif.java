@@ -12,5 +12,7 @@ public class S01_Team4OrtakSinif {
         System.out.println("merhaba yılmak yok, yola devam. osman");
 
         System.out.println("Not: pull request==> new pull request ==> compare and ..e bakın");
+
+        System.out.println("bir pazar gunu GitHubla.osman");
     }
 }
