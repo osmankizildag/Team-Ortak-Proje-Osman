@@ -14,5 +14,8 @@ public class S00_Team4OrtakSinif {
         // hedefım conflıt olusturmak, gıthubda duzeltmek
         // 110123.0654.githubda kendi classımda degişiklik yaptım
         // ancak ortak sınıfa mudahale edemedim
+        // 110123.0723.projeye bu satırı ekledim
+        // ustteki yazıyı sıldım bu satırı ekledım(GıtHub'da)
+
     }
 }
