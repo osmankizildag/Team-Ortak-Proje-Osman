@@ -11,10 +11,7 @@ public class S01_Team4OrtakSinif {
 
         System.out.println("merhaba yılmak yok, yola devam. osman");
 
-        System.out.println("nedemek conflict yok");
-        if (true){
-            System.out.println("conflit");
-        }
+        System.out.println("suleyman beyin if li conflıcti vardı burada artık yok");
 
         System.out.println("Not: pull request==> new pull request ==> compare and ..e bakın");
 
