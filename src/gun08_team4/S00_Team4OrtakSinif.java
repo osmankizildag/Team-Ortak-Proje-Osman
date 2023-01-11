@@ -16,6 +16,12 @@ public class S00_Team4OrtakSinif {
         // ancak ortak sınıfa mudahale edemedim
         // 110123.0723.projeye bu satırı ekledim
         // ustteki yazıyı sıldım bu satırı ekledım(GıtHub'da)
+        // 110123.0737.bu satırı ekledım ve en uste conf.4 yaptım
+        // Pull request =>Open (tik at) ve New pull request=>
+        // Compare zamana bak ve sec=>Create pull request=>
+        // acılan sayfada tekrar Create pull request=>istek gitti=>
+        // Merge pull request sagdakı 3 nokta tıklayıp Edit file 
+        // ve cıkan sayfada degısıklık yapıyorum
 
     }
 }
