@@ -13,7 +13,7 @@ public class S01_Team4OrtakSinif {
 
         System.out.println("suleyman beyin if li conflıcti vardı burada artık yok");
 
-        System.out.println("Not: pull request==> new pull request ==> compare and ..e bakın");
+        System.out.println("conflıct olmasına ragmen yokmus gıbı davranıyor");
 
         System.out.println("bir pazar gunu GitHubla.osman");
 
