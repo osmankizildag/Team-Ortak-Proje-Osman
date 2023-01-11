@@ -8,10 +8,11 @@ public class S00_Team4OrtakSinif {
                 "bırakarak yazalım. asagıdakı ornekte oldugu gibi " +
                 "mesajın sonuna ismimizi de yazalım. " +
                 "Ayrıca kendimize ait ismimizle birer class da açalım");
-
+        // burada yazı gorunuyorsa conf duzeltılememıs demektır
         // 110123.0632.buradaki tum soutları sildim
         // class ad ve nolarını duzenledım
-        // hedefım conflıt olusturmal, gıthubda duzeltmek
-        //
+        // hedefım conflıt olusturmak, gıthubda duzeltmek
+        // 110123.0654.githubda kendi classımda degişiklik yaptım
+        // ancak ortak sınıfa mudahale edemedim
     }
 }
