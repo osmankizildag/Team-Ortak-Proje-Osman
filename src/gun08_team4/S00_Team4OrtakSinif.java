@@ -8,7 +8,7 @@ public class S00_Team4OrtakSinif {
                 "bırakarak yazalım. asagıdakı ornekte oldugu gibi " +
                 "mesajın sonuna ismimizi de yazalım. " +
                 "Ayrıca kendimize ait ismimizle birer class da açalım");
-        // Eger bu yazıyı goruyorsanız GıtHub'da duzeltme yapılamamıstır
+        // 
         // 110123.0632.buradaki tum soutları sildim
         // class ad ve nolarını duzenledım
         // hedefım conflıt olusturmak, gıthubda duzeltmek
@@ -17,6 +17,11 @@ public class S00_Team4OrtakSinif {
         // 110123.0723.projeye bu satırı ekledim
         // ustteki yazıyı sıldım bu satırı ekledım(GıtHub'da)
         // 110123.0737.bu satırı ekledım ve en uste conf.4 yaptım
+        // Pull request =>Open (tik at) ve New pull request=>
+        // Compare zamana bak ve sec=>Create pull request=>
+        // acılan sayfada tekrar Create pull request=>istek gitti=>
+        // Merge pull request sagdakı 3 nokta tıklayıp Edit file 
+        // ve cıkan sayfada degısıklık yapıyorum
 
     }
 }
