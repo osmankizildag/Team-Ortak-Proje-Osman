@@ -8,7 +8,7 @@ public class S00_Team4OrtakSinif {
                 "bırakarak yazalım. asagıdakı ornekte oldugu gibi " +
                 "mesajın sonuna ismimizi de yazalım. " +
                 "Ayrıca kendimize ait ismimizle birer class da açalım");
-        // 
+        // Eger bu yazıyı goruyorsanız GıtHub'da duzeltme yapılamamıstır
         // 110123.0632.buradaki tum soutları sildim
         // class ad ve nolarını duzenledım
         // hedefım conflıt olusturmak, gıthubda duzeltmek
@@ -16,6 +16,7 @@ public class S00_Team4OrtakSinif {
         // ancak ortak sınıfa mudahale edemedim
         // 110123.0723.projeye bu satırı ekledim
         // ustteki yazıyı sıldım bu satırı ekledım(GıtHub'da)
+        // 110123.0737.bu satırı ekledım ve en uste conf.4 yaptım
 
     }
 }
