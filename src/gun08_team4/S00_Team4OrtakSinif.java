@@ -22,6 +22,11 @@ public class S00_Team4OrtakSinif {
         // acılan sayfada tekrar Create pull request=>istek gitti=>
         // Merge pull request sagdakı 3 nokta tıklayıp Edit file 
         // ve cıkan sayfada degısıklık yapıyorum
+        // sonra altta commit changes tıklıyorum
+        // wiev pull request=>Merge pull request=>Confirm merge=>
+        // Pull request successfully merged and closed
+        // 110123.0754.bu defa conf.siz ekleme yapıyorum bakalım
+        // bu satırı silmemişsem conf yoktur
 
     }
 }
