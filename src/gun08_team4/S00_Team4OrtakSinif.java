@@ -8,13 +8,14 @@ public class S00_Team4OrtakSinif {
                 "bırakarak yazalım. asagıdakı ornekte oldugu gibi " +
                 "mesajın sonuna ismimizi de yazalım. " +
                 "Ayrıca kendimize ait ismimizle birer class da açalım");
-        // conf.3 burada bu yazı varsa conf.githubda duzeltılememıs demektir.
+        // 
         // 110123.0632.buradaki tum soutları sildim
         // class ad ve nolarını duzenledım
         // hedefım conflıt olusturmak, gıthubda duzeltmek
         // 110123.0654.githubda kendi classımda degişiklik yaptım
         // ancak ortak sınıfa mudahale edemedim
         // 110123.0723.projeye bu satırı ekledim
+        // ustteki yazıyı sıldım bu satırı ekledım(GıtHub'da)
 
     }
 }
