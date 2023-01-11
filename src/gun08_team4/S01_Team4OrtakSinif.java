@@ -29,7 +29,7 @@ public class S01_Team4OrtakSinif {
 
         System.out.println("Arkadaslar guzel bir proje olmasi dilegiyle- Galip");
 
-        System.out.println("bu conflitsiz ");
+        System.out.println("bu conflitsiz (buraya bir conf gonderdım)");
 
         System.out.println(" 11 carsamba proje ne durumda acaba");
     }
