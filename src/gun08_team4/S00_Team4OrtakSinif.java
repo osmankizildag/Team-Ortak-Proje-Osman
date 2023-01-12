@@ -27,6 +27,7 @@ public class S00_Team4OrtakSinif {
         // Pull request successfully merged and closed
         // 110123.0754.bu defa conf.siz ekleme yapıyorum bakalım
         // bu satırı silmemişsem conf yoktur
+        // Bu gece sorunlar cözulsun
 
     }
 }
